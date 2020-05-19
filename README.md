@@ -1,3 +1,9 @@
+# Fundamental Project Example
+
+Here I'm just gonna put some hopefully-helpful example files and documents to give you an idea of what your fundamental project should look like. Note that I will not be putting my full project here as I don't wanna encourage anyone to just copy my work, but this'll probably be handy for reference.
+
+Below is the original README.md file for my fundamental project. It's probably a little OTT, I might cut some things down a bit, but you should get an idea of the sections you'll need to include for your own.
+
 # Stargazing Companion App
 
 ### Resources:
