@@ -1,15 +1,12 @@
 # Fundamental Project Example
 
-Here I'm just gonna put some hopefully-helpful example files and documents to give you an idea of what your fundamental project should look like. Note that I will not be putting my full project here as I don't wanna encourage anyone to just copy my work, but this'll probably be handy for reference.
+Below is the original README.md file for my fundamental project. It should give you an idea of the level of detail we're expecting for your project documentation for your fundamental project due Monday of Week 6.
 
-Below is the original README.md file for my fundamental project. It's probably a little OTT, I might cut some things down a bit, but you should get an idea of the sections you'll need to include for your own.
+It's worth noting that this application no longer fits the current project specification, so don't follow it too closely for inspiration. Always refer to what's being asked of you in the spec.
+
+Please do not steal the diagrams in this example for use in your own projects. This project should be entirely your own work.
 
 # Stargazing Companion App
-
-### Resources:
-* Presentation: https://docs.google.com/presentation/d/1C0J2M6T_B_fquxnGgjRV6K_arbpyLvmv8f2Z-C-wYa0/edit?usp=sharing
-* Trello: https://trello.com/b/UfMXjN8h/constellations
-* Website: http://35.214.26.193:8001/
 
 ## Contents
 * [Brief](#brief)
