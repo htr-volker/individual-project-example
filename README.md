@@ -68,7 +68,7 @@ Additionally, I would like to allow the user to:
 ### Database Structure
 Pictured below is an entity relationship diagram (ERD) showing the structure of the database. Everything in green has been implemented into the app, while everything in red has not.
 
-![ERD][https://i.imgur.com/p9wji5S.png]
+![ERD](https://i.imgur.com/p9wji5S.png)
 
 As shown in the ERD, the app models a many-to-many relationship between User entities and Observation entities using an association table. This allows the user to create observation posts and tag multiple users in the database with one observation. Similarly, many observations can therefore be associated with a user.
 
